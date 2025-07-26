@@ -230,7 +230,13 @@
                     const meal = meals.find(m => m.id === mealId);
                     if (meal) {
                         meal.ingredients.forEach(ing => {
-                            const key = `${ing.ingredient.toLowerCase()}_${ing.unit.toLowerCase()}`;
+                            // Clean and normalize the ingredient name and unit for better matching
+                            const cleanIngredient = ing.ingredient.trim().toLowerCase();
+                            const cleanUnit = ing.unit.trim().toLowerCase();
+                            
+                            // Create a more robust key that handles variations
+                            const key = `${cleanIngredient}|${cleanUnit}`;
+                            
                             if (ingredientMap.has(key)) {
                                 const existing = ingredientMap.get(key);
                                 ingredientMap.set(key, {
@@ -240,9 +246,9 @@
                                 });
                             } else {
                                 ingredientMap.set(key, {
-                                    ingredient: ing.ingredient,
+                                    ingredient: ing.ingredient.trim(), // Keep original capitalization for display
                                     quantity: parseFloat(ing.quantity),
-                                    unit: ing.unit,
+                                    unit: ing.unit.trim(), // Keep original unit format for display
                                     type: ing.type,
                                     checked: false
                                 });
