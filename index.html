@@ -337,6 +337,48 @@
                 }
             };
 
+            const copyGroceryList = async () => {
+                if (groceryList.length === 0) {
+                    alert('No grocery list to copy. Generate a list first!');
+                    return;
+                }
+
+                let listText = "🛒 GROCERY LIST\n";
+                listText += `Generated: ${new Date().toLocaleDateString()}\n\n`;
+
+                // Group by store sections
+                storeTypes.forEach(type => {
+                    const itemsInSection = groceryList.filter(item => item.type === type);
+                    if (itemsInSection.length > 0) {
+                        listText += `📍 ${type.toUpperCase()}\n`;
+                        itemsInSection.forEach(item => {
+                            const checkmark = item.checked ? '✅' : '◯';
+                            listText += `${checkmark} ${item.quantity} ${item.unit} ${item.ingredient}\n`;
+                        });
+                        listText += '\n';
+                    }
+                });
+
+                // Add summary
+                const totalItems = groceryList.length;
+                const checkedItems = groceryList.filter(item => item.checked).length;
+                listText += `📊 SUMMARY: ${checkedItems}/${totalItems} items completed`;
+
+                try {
+                    await navigator.clipboard.writeText(listText);
+                    alert('Grocery list copied to clipboard! 📋');
+                } catch (error) {
+                    // Fallback for older browsers
+                    const textArea = document.createElement('textarea');
+                    textArea.value = listText;
+                    document.body.appendChild(textArea);
+                    textArea.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(textArea);
+                    alert('Grocery list copied to clipboard! 📋');
+                }
+            };
+
             if (isLoading) {
                 return (
                     <div className="loading">
@@ -557,11 +599,21 @@
                             <div>
                                 <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
                                     <h2 className="text-lg md:text-xl font-semibold">Grocery List</h2>
-                                    {groceryList.length > 0 && (
-                                        <div className="text-sm text-gray-600">
-                                            {groceryList.filter(item => item.checked).length} of {groceryList.length} items checked
-                                        </div>
-                                    )}
+                                    <div className="flex items-center gap-4">
+                                        {groceryList.length > 0 && (
+                                            <>
+                                                <button
+                                                    onClick={copyGroceryList}
+                                                    className="flex items-center gap-2 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 text-sm"
+                                                >
+                                                    📋 Copy List
+                                                </button>
+                                                <div className="text-sm text-gray-600">
+                                                    {groceryList.filter(item => item.checked).length} of {groceryList.length} items checked
+                                                </div>
+                                            </>
+                                        )}
+                                    </div>
                                 </div>
 
                                 {groceryList.length > 0 ? (
