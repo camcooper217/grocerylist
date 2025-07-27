@@ -89,10 +89,40 @@
         }
       ],
       "id": 1753624681495
+    },
+    {
+      "name": "Yogurt Bowls",
+      "ingredients": [
+        {
+          "ingredient": "Greek Yogurt",
+          "quantity": "1",
+          "unit": "container",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Frozen Berries",
+          "quantity": "1",
+          "unit": "bag",
+          "type": "Frozen"
+        },
+        {
+          "ingredient": "Honey",
+          "quantity": "1",
+          "unit": "teaspoon",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Chia Seeds",
+          "quantity": "1",
+          "unit": "teaspoon",
+          "type": "Pantry"
+        }
+      ],
+      "id": 1753624979974
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:00:04.805Z"
+  "lastModified": "2025-07-27T14:03:00.252Z"
 }
