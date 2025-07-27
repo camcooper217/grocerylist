@@ -35,10 +35,22 @@
         }
       ],
       "id": 1753624452220
+    },
+    {
+      "name": "Shepard's Pie",
+      "ingredients": [
+        {
+          "ingredient": "Ground Beef ",
+          "quantity": "2",
+          "unit": "lbs",
+          "type": "Meat"
+        }
+      ],
+      "id": 1753624681495
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T13:54:15.201Z"
+  "lastModified": "2025-07-27T13:58:01.502Z"
 }
