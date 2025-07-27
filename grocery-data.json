@@ -391,7 +391,7 @@
       "quantity": 1,
       "unit": "package",
       "type": "Pantry",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Frozen Berries",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:38:06.448Z"
+  "lastModified": "2025-07-27T20:39:02.859Z"
 }
