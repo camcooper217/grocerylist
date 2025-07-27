@@ -18,13 +18,13 @@
         {
           "ingredient": "Honey ",
           "quantity": "1",
-          "unit": "Tablespoon ",
+          "unit": "teaspoon ",
           "type": "Pantry"
         },
         {
           "ingredient": "Butter",
           "quantity": "3",
-          "unit": "Tablespoons ",
+          "unit": "tablespoon",
           "type": "Produce"
         },
         {
@@ -364,5 +364,5 @@
     }
   ],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:10:15.614Z"
+  "lastModified": "2025-07-27T14:10:38.602Z"
 }
