@@ -370,7 +370,7 @@
       "quantity": 2,
       "unit": "teaspoon",
       "type": "Pantry",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Sponges",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:39:02.859Z"
+  "lastModified": "2025-07-27T20:42:02.229Z"
 }
