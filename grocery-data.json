@@ -307,7 +307,7 @@
       "quantity": 2,
       "unit": "med",
       "type": "Meat",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Butter",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:48:56.926Z"
+  "lastModified": "2025-07-27T20:49:30.601Z"
 }
