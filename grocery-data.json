@@ -215,6 +215,24 @@
         }
       ],
       "id": 1753646823593
+    },
+    {
+      "name": "Steaks + Salad Kit",
+      "ingredients": [
+        {
+          "ingredient": "Steaks",
+          "quantity": "2",
+          "unit": "med",
+          "type": "Meat"
+        },
+        {
+          "ingredient": "Salad Kit",
+          "quantity": "1",
+          "unit": "package",
+          "type": "Produce"
+        }
+      ],
+      "id": 1753647016641
     }
   ],
   "selectedMeals": [
@@ -383,5 +401,5 @@
     }
   ],
   "currentView": "meals",
-  "lastModified": "2025-07-27T20:08:28.571Z"
+  "lastModified": "2025-07-27T20:10:16.897Z"
 }
