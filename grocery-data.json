@@ -272,7 +272,7 @@
       "quantity": 6,
       "unit": "Med",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Salad Kit",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:53:45.103Z"
+  "lastModified": "2025-07-27T20:57:28.022Z"
 }
