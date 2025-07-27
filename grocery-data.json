@@ -405,7 +405,7 @@
       "quantity": 1,
       "unit": "bag",
       "type": "Frozen",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Sourdough Bread",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:43:23.051Z"
+  "lastModified": "2025-07-27T20:43:51.422Z"
 }
