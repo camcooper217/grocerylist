@@ -328,7 +328,7 @@
       "quantity": 1,
       "unit": "carton",
       "type": "Dairy",
-      "checked": true
+      "checked": false
     },
     {
       "ingredient": "Greek Yogurt",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:10:37.813Z"
+  "lastModified": "2025-07-27T20:10:53.034Z"
 }
