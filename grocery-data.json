@@ -1,7 +1,20 @@
 {
-  "meals": [],
+  "meals": [
+    {
+      "name": "TEST",
+      "ingredients": [
+        {
+          "ingredient": "TEST",
+          "quantity": "1",
+          "unit": "1",
+          "type": "Produce"
+        }
+      ],
+      "id": 1753575710441
+    }
+  ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T00:21:25.833Z"
+  "lastModified": "2025-07-27T00:21:50.594Z"
 }
