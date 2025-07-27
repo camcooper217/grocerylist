@@ -149,10 +149,34 @@
         }
       ],
       "id": 1753625106932
+    },
+    {
+      "name": "Quesadillas ",
+      "ingredients": [
+        {
+          "ingredient": "Tortillas",
+          "quantity": "1",
+          "unit": "package",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Mexican Cheese",
+          "quantity": "1",
+          "unit": "bag",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Rotisserie Chicken",
+          "quantity": "1",
+          "unit": "Chicken",
+          "type": "Meat"
+        }
+      ],
+      "id": 1753625205260
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:05:07.275Z"
+  "lastModified": "2025-07-27T14:06:45.566Z"
 }
