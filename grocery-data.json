@@ -319,6 +319,13 @@
       "checked": false
     },
     {
+      "ingredient": "Brush",
+      "quantity": 1,
+      "unit": "brush",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
       "ingredient": "Chia Seeds",
       "quantity": 1,
       "unit": "teaspoon",
@@ -329,6 +336,13 @@
       "ingredient": "Honey",
       "quantity": 2,
       "unit": "teaspoon",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Sponges",
+      "quantity": 1,
+      "unit": "pack",
       "type": "Pantry",
       "checked": false
     },
@@ -368,6 +382,6 @@
       "checked": false
     }
   ],
-  "currentView": "meals",
-  "lastModified": "2025-07-27T20:07:24.855Z"
+  "currentView": "grocery",
+  "lastModified": "2025-07-27T20:07:25.740Z"
 }
