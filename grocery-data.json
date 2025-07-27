@@ -412,9 +412,9 @@
       "quantity": 1,
       "unit": "bag",
       "type": "Bakery",
-      "checked": false
+      "checked": true
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:51:07.443Z"
+  "lastModified": "2025-07-27T20:53:45.103Z"
 }
