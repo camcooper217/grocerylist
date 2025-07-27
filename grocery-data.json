@@ -199,8 +199,10 @@
       "id": 1753625297022
     }
   ],
-  "selectedMeals": [],
+  "selectedMeals": [
+    1753624452220
+  ],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:08:17.310Z"
+  "lastModified": "2025-07-27T14:08:58.868Z"
 }
