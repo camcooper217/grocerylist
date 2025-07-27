@@ -197,6 +197,18 @@
         }
       ],
       "id": 1753625297022
+    },
+    {
+      "name": "Sponges",
+      "ingredients": [
+        {
+          "ingredient": "Sponges",
+          "quantity": "1",
+          "unit": "pack",
+          "type": "Pantry"
+        }
+      ],
+      "id": 1753646823593
     }
   ],
   "selectedMeals": [
@@ -350,5 +362,5 @@
     }
   ],
   "currentView": "meals",
-  "lastModified": "2025-07-27T20:04:58.287Z"
+  "lastModified": "2025-07-27T20:07:03.808Z"
 }
