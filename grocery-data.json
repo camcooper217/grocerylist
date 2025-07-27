@@ -300,7 +300,7 @@
       "quantity": 1,
       "unit": "Chicken",
       "type": "Meat",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Steaks",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:50:22.330Z"
+  "lastModified": "2025-07-27T20:51:05.508Z"
 }
