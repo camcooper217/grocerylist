@@ -151,7 +151,7 @@
       "id": 1753625106932
     },
     {
-      "name": "Quesadillas ",
+      "name": "Rotisserie Quesadillas ",
       "ingredients": [
         {
           "ingredient": "Tortillas",
@@ -364,5 +364,5 @@
     }
   ],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:09:41.882Z"
+  "lastModified": "2025-07-27T14:10:15.614Z"
 }
