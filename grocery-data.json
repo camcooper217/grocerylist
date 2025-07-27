@@ -275,6 +275,13 @@
       "checked": false
     },
     {
+      "ingredient": "Salad Kit",
+      "quantity": 1,
+      "unit": "package",
+      "type": "Produce",
+      "checked": false
+    },
+    {
       "ingredient": "Chicken Breast",
       "quantity": 2,
       "unit": "Med",
@@ -292,6 +299,13 @@
       "ingredient": "Rotisserie Chicken",
       "quantity": 1,
       "unit": "Chicken",
+      "type": "Meat",
+      "checked": false
+    },
+    {
+      "ingredient": "Steaks",
+      "quantity": 2,
+      "unit": "med",
       "type": "Meat",
       "checked": false
     },
@@ -401,6 +415,6 @@
       "checked": false
     }
   ],
-  "currentView": "meals",
-  "lastModified": "2025-07-27T20:10:22.662Z"
+  "currentView": "grocery",
+  "lastModified": "2025-07-27T20:10:37.813Z"
 }
