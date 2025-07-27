@@ -286,7 +286,7 @@
       "quantity": 2,
       "unit": "Med",
       "type": "Meat",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Ground Beef",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:47:23.729Z"
+  "lastModified": "2025-07-27T20:48:56.926Z"
 }
