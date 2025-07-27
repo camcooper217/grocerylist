@@ -279,7 +279,7 @@
       "quantity": 1,
       "unit": "package",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Chicken Breast",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:57:28.022Z"
+  "lastModified": "2025-07-27T20:58:25.815Z"
 }
