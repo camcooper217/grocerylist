@@ -13,18 +13,8 @@
       "id": 1753575710441
     }
   ],
-  "selectedMeals": [
-    1753575710441
-  ],
-  "groceryList": [
-    {
-      "ingredient": "TEST",
-      "quantity": 1,
-      "unit": "1",
-      "type": "Produce",
-      "checked": false
-    }
-  ],
-  "currentView": "grocery",
-  "lastModified": "2025-07-27T00:22:02.421Z"
+  "selectedMeals": [],
+  "groceryList": [],
+  "currentView": "meals",
+  "lastModified": "2025-07-27T00:22:33.968Z"
 }
