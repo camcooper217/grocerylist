@@ -119,10 +119,40 @@
         }
       ],
       "id": 1753624979974
+    },
+    {
+      "name": "Baked Potatoes ",
+      "ingredients": [
+        {
+          "ingredient": "Russet Potatoes",
+          "quantity": "2",
+          "unit": "med",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Cheddar Cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Baked Beans",
+          "quantity": "1",
+          "unit": "can",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Butter",
+          "quantity": "1",
+          "unit": "tablespoon",
+          "type": "Produce"
+        }
+      ],
+      "id": 1753625106932
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T14:03:00.252Z"
+  "lastModified": "2025-07-27T14:05:07.275Z"
 }
