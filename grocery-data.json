@@ -11,10 +11,46 @@
         }
       ],
       "id": 1753575710441
+    },
+    {
+      "name": "Honey Butter Chicken ",
+      "ingredients": [
+        {
+          "ingredient": "Chicken Breast",
+          "quantity": "2",
+          "unit": "Med",
+          "type": "Meat"
+        },
+        {
+          "ingredient": "Russet Potatoes ",
+          "quantity": "2",
+          "unit": "Med",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Honey ",
+          "quantity": "1",
+          "unit": "Tablespoon ",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Butter",
+          "quantity": "3",
+          "unit": "Tablespoons ",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Milk ",
+          "quantity": "1",
+          "unit": "Cup",
+          "type": "Produce"
+        }
+      ],
+      "id": 1753624452220
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T00:22:33.968Z"
+  "lastModified": "2025-07-27T13:54:12.547Z"
 }
