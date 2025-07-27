@@ -293,7 +293,7 @@
       "quantity": 2,
       "unit": "lbs",
       "type": "Meat",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Rotisserie Chicken",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:49:30.601Z"
+  "lastModified": "2025-07-27T20:50:22.330Z"
 }
