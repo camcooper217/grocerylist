@@ -199,12 +199,18 @@
       "id": 1753625297022
     },
     {
-      "name": "Sponges",
+      "name": "Cleaning",
       "ingredients": [
         {
           "ingredient": "Sponges",
           "quantity": "1",
           "unit": "pack",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Brush",
+          "quantity": "1",
+          "unit": "brush",
           "type": "Pantry"
         }
       ],
@@ -362,5 +368,5 @@
     }
   ],
   "currentView": "meals",
-  "lastModified": "2025-07-27T20:07:03.808Z"
+  "lastModified": "2025-07-27T20:07:21.293Z"
 }
