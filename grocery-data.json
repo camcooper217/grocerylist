@@ -321,7 +321,7 @@
       "quantity": 2,
       "unit": "cup",
       "type": "Dairy",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Eggs",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:46:37.899Z"
+  "lastModified": "2025-07-27T20:47:22.986Z"
 }
