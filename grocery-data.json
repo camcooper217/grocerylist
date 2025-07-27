@@ -251,7 +251,7 @@
       "quantity": 5,
       "unit": "med",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Carrots",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:58:25.815Z"
+  "lastModified": "2025-07-27T20:58:26.924Z"
 }
