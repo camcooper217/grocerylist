@@ -16,7 +16,15 @@
   "selectedMeals": [
     1753575676761
   ],
-  "groceryList": [],
-  "currentView": "meals",
-  "lastModified": "2025-07-27T00:21:20.275Z"
+  "groceryList": [
+    {
+      "ingredient": "TEST",
+      "quantity": 1,
+      "unit": "TEST",
+      "type": "Produce",
+      "checked": false
+    }
+  ],
+  "currentView": "grocery",
+  "lastModified": "2025-07-27T00:21:21.662Z"
 }
