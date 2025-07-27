@@ -265,7 +265,7 @@
       "quantity": 2,
       "unit": "Cup",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Russet Potatoes",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:51:05.508Z"
+  "lastModified": "2025-07-27T20:51:07.443Z"
 }
