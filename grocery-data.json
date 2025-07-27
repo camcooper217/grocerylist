@@ -342,7 +342,7 @@
       "quantity": 1,
       "unit": "bag",
       "type": "Dairy",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Baked Beans",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:47:22.986Z"
+  "lastModified": "2025-07-27T20:47:23.729Z"
 }
