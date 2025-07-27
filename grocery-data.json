@@ -1,18 +1,6 @@
 {
   "meals": [
     {
-      "name": "TEST",
-      "ingredients": [
-        {
-          "ingredient": "TEST",
-          "quantity": "1",
-          "unit": "1",
-          "type": "Produce"
-        }
-      ],
-      "id": 1753575710441
-    },
-    {
       "name": "Honey Butter Chicken ",
       "ingredients": [
         {
@@ -52,5 +40,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T13:54:12.547Z"
+  "lastModified": "2025-07-27T13:54:15.201Z"
 }
