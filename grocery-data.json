@@ -384,7 +384,7 @@
       "quantity": 1,
       "unit": "tube",
       "type": "Pantry",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Tortillas",
@@ -416,5 +416,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-27T20:58:26.924Z"
+  "lastModified": "2025-07-27T21:01:05.782Z"
 }
