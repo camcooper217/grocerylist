@@ -44,6 +44,48 @@
           "quantity": "2",
           "unit": "lbs",
           "type": "Meat"
+        },
+        {
+          "ingredient": "Russet Potatoes ",
+          "quantity": "2",
+          "unit": "med",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Carrots ",
+          "quantity": "2",
+          "unit": "med",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Peas",
+          "quantity": "1",
+          "unit": "bag",
+          "type": "Frozen"
+        },
+        {
+          "ingredient": "Tomato Paste",
+          "quantity": "1",
+          "unit": "tube",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Cheddar Cheese",
+          "quantity": "1",
+          "unit": "cup",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Butter",
+          "quantity": "1",
+          "unit": "tablespoon",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Milk ",
+          "quantity": "1",
+          "unit": "Cup",
+          "type": "Produce"
         }
       ],
       "id": 1753624681495
@@ -52,5 +94,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-27T13:58:01.502Z"
+  "lastModified": "2025-07-27T14:00:04.805Z"
 }
