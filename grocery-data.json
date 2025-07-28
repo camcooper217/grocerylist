@@ -73,7 +73,7 @@
       "quantity": 1,
       "unit": "NA",
       "type": "Pantry",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Knives",
@@ -91,5 +91,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-28T16:22:15.498Z"
+  "lastModified": "2025-07-28T16:22:18.249Z"
 }
