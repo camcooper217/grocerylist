@@ -20,6 +20,12 @@
           "quantity": "1",
           "unit": "NA",
           "type": "Pantry"
+        },
+        {
+          "ingredient": "Baking dish ",
+          "quantity": "1",
+          "unit": "NA",
+          "type": "Pantry"
         }
       ],
       "id": 1753707304790
@@ -28,5 +34,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-28T12:55:05.030Z"
+  "lastModified": "2025-07-28T14:38:47.071Z"
 }
