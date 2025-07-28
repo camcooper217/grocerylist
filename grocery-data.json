@@ -1,7 +1,32 @@
 {
-  "meals": [],
+  "meals": [
+    {
+      "name": "Home goods ",
+      "ingredients": [
+        {
+          "ingredient": "Cutting board ",
+          "quantity": "1",
+          "unit": "NA",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Knives ",
+          "quantity": "1",
+          "unit": "Set",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Metal spatula ",
+          "quantity": "1",
+          "unit": "NA",
+          "type": "Pantry"
+        }
+      ],
+      "id": 1753707304790
+    }
+  ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-07-28T12:54:21.666Z"
+  "lastModified": "2025-07-28T12:55:05.030Z"
 }
