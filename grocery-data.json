@@ -80,7 +80,7 @@
       "quantity": 1,
       "unit": "Set",
       "type": "Pantry",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Metal spatula",
@@ -91,5 +91,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-07-28T16:07:03.908Z"
+  "lastModified": "2025-07-28T16:22:13.448Z"
 }
