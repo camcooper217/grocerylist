@@ -46,7 +46,50 @@
   "selectedMeals": [
     1753707304790
   ],
-  "groceryList": [],
-  "currentView": "meals",
-  "lastModified": "2025-07-28T16:07:03.232Z"
+  "groceryList": [
+    {
+      "ingredient": "Clorox wipes",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Baking dish",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Cleaning brush",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Cutting board",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Knives",
+      "quantity": 1,
+      "unit": "Set",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Metal spatula",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Pantry",
+      "checked": false
+    }
+  ],
+  "currentView": "grocery",
+  "lastModified": "2025-07-28T16:07:03.908Z"
 }
