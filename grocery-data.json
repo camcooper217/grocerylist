@@ -32,6 +32,12 @@
           "quantity": "3",
           "unit": "NA",
           "type": "Produce"
+        },
+        {
+          "ingredient": "Milk",
+          "quantity": "1",
+          "unit": "Cup",
+          "type": "Dairy"
         }
       ],
       "id": 1754325649469
@@ -40,5 +46,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:40:49.715Z"
+  "lastModified": "2025-08-04T16:41:08.057Z"
 }
