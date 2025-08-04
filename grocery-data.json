@@ -23,10 +23,22 @@
         }
       ],
       "id": 1754325606391
+    },
+    {
+      "name": "Mashed Potatoes ",
+      "ingredients": [
+        {
+          "ingredient": "Red Potatoes ",
+          "quantity": "3",
+          "unit": "NA",
+          "type": "Produce"
+        }
+      ],
+      "id": 1754325649469
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:40:06.665Z"
+  "lastModified": "2025-08-04T16:40:49.715Z"
 }
