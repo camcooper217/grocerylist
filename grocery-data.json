@@ -1,7 +1,32 @@
 {
-  "meals": [],
+  "meals": [
+    {
+      "name": "Chicken Dish",
+      "ingredients": [
+        {
+          "ingredient": "Chicken Breasts",
+          "quantity": "4",
+          "unit": "NA",
+          "type": "Meat"
+        },
+        {
+          "ingredient": "Baking Potatoes ",
+          "quantity": "2",
+          "unit": "NA",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Salad Kit",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Produce"
+        }
+      ],
+      "id": 1754325606391
+    }
+  ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:38:43.203Z"
+  "lastModified": "2025-08-04T16:40:06.665Z"
 }
