@@ -41,10 +41,40 @@
         }
       ],
       "id": 1754325649469
+    },
+    {
+      "name": "Grilled Cheese + Tomato Soup",
+      "ingredients": [
+        {
+          "ingredient": "Sourdough",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Bakery"
+        },
+        {
+          "ingredient": "Cheddar Cheese",
+          "quantity": "1",
+          "unit": "Package ",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Canned Tomato Soup",
+          "quantity": "2",
+          "unit": "Cans",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Salad Kit",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Produce"
+        }
+      ],
+      "id": 1754325763671
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:41:23.621Z"
+  "lastModified": "2025-08-04T16:42:43.926Z"
 }
