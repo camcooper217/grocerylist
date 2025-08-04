@@ -17,7 +17,7 @@
         },
         {
           "ingredient": "Salad Kit",
-          "quantity": "1",
+          "quantity": "2",
           "unit": "Bag",
           "type": "Produce"
         }
@@ -46,5 +46,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:41:08.057Z"
+  "lastModified": "2025-08-04T16:41:23.621Z"
 }
