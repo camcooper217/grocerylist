@@ -53,10 +53,28 @@
         }
       ],
       "id": 1754325763671
+    },
+    {
+      "name": "Yogurt Bowls",
+      "ingredients": [
+        {
+          "ingredient": "Greek yogurt ",
+          "quantity": "1",
+          "unit": "Qt",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Frozen Berries",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Produce"
+        }
+      ],
+      "id": 1754766671658
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-09T19:10:23.883Z"
+  "lastModified": "2025-08-09T19:11:11.987Z"
 }
