@@ -95,34 +95,10 @@
         }
       ],
       "id": 1754766740664
-    },
-    {
-      "name": "Pastitsio ",
-      "ingredients": [
-        {
-          "ingredient": "Ground beef ",
-          "quantity": "2",
-          "unit": "Lbs",
-          "type": "Meat"
-        },
-        {
-          "ingredient": "Macaroni pasta",
-          "quantity": "1",
-          "unit": "Container",
-          "type": "Pantry"
-        },
-        {
-          "ingredient": "Bechemel",
-          "quantity": "1",
-          "unit": "NA",
-          "type": "Produce"
-        }
-      ],
-      "id": 1754766864730
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-09T19:14:25.078Z"
+  "lastModified": "2025-08-09T19:20:19.461Z"
 }
