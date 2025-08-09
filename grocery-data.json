@@ -25,24 +25,6 @@
       "id": 1754325606391
     },
     {
-      "name": "Mashed Potatoes ",
-      "ingredients": [
-        {
-          "ingredient": "Red Potatoes ",
-          "quantity": "3",
-          "unit": "NA",
-          "type": "Produce"
-        },
-        {
-          "ingredient": "Milk",
-          "quantity": "1",
-          "unit": "Cup",
-          "type": "Dairy"
-        }
-      ],
-      "id": 1754325649469
-    },
-    {
       "name": "Grilled Cheese + Tomato Soup",
       "ingredients": [
         {
@@ -76,5 +58,5 @@
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-04T16:42:43.926Z"
+  "lastModified": "2025-08-09T19:10:23.883Z"
 }
