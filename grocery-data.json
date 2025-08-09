@@ -71,10 +71,34 @@
         }
       ],
       "id": 1754766671658
+    },
+    {
+      "name": "Avocado Toast",
+      "ingredients": [
+        {
+          "ingredient": "Eggs",
+          "quantity": "1",
+          "unit": "Carton",
+          "type": "Dairy"
+        },
+        {
+          "ingredient": "Sourdough ",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Bakery"
+        },
+        {
+          "ingredient": "Avocados ",
+          "quantity": "4",
+          "unit": "NA",
+          "type": "Produce"
+        }
+      ],
+      "id": 1754766740664
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-09T19:11:11.987Z"
+  "lastModified": "2025-08-09T19:12:21.012Z"
 }
