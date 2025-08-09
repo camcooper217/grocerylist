@@ -95,10 +95,40 @@
         }
       ],
       "id": 1754766740664
+    },
+    {
+      "name": "Pasta and Meat Sauce",
+      "ingredients": [
+        {
+          "ingredient": "Ground beef ",
+          "quantity": "2",
+          "unit": "Lbs",
+          "type": "Meat"
+        },
+        {
+          "ingredient": "Pasta Sauce",
+          "quantity": "1",
+          "unit": "Can",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Pasta",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Pantry"
+        },
+        {
+          "ingredient": "Parmesan Cheese",
+          "quantity": "1",
+          "unit": "Bag",
+          "type": "Dairy"
+        }
+      ],
+      "id": 1754767342168
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-09T19:20:19.461Z"
+  "lastModified": "2025-08-09T19:22:22.514Z"
 }
