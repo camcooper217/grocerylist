@@ -95,10 +95,28 @@
         }
       ],
       "id": 1754767342168
+    },
+    {
+      "name": "Lime Water",
+      "ingredients": [
+        {
+          "ingredient": "Limes",
+          "quantity": "6",
+          "unit": "NA",
+          "type": "Produce"
+        },
+        {
+          "ingredient": "Salt",
+          "quantity": "1",
+          "unit": "NA",
+          "type": "Pantry"
+        }
+      ],
+      "id": 1754869921469
     }
   ],
   "selectedMeals": [],
   "groceryList": [],
   "currentView": "meals",
-  "lastModified": "2025-08-10T23:50:54.644Z"
+  "lastModified": "2025-08-10T23:52:01.807Z"
 }
