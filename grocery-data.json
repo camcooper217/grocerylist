@@ -134,7 +134,7 @@
       "quantity": 2,
       "unit": "NA",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Frozen Berries",
@@ -194,5 +194,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-08-11T00:06:55.123Z"
+  "lastModified": "2025-08-11T00:09:05.816Z"
 }
