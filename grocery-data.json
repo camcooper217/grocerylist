@@ -127,7 +127,7 @@
       "quantity": 4,
       "unit": "NA",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Baking Potatoes",
@@ -194,5 +194,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-08-11T00:02:29.897Z"
+  "lastModified": "2025-08-11T00:02:32.478Z"
 }
