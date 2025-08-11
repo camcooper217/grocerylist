@@ -121,7 +121,78 @@
     1754766740664,
     1754869921469
   ],
-  "groceryList": [],
-  "currentView": "meals",
-  "lastModified": "2025-08-11T00:02:23.973Z"
+  "groceryList": [
+    {
+      "ingredient": "Avocados",
+      "quantity": 4,
+      "unit": "NA",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Baking Potatoes",
+      "quantity": 2,
+      "unit": "NA",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Frozen Berries",
+      "quantity": 1,
+      "unit": "Bag",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Limes",
+      "quantity": 6,
+      "unit": "NA",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Salad Kit",
+      "quantity": 2,
+      "unit": "Bag",
+      "type": "Produce",
+      "checked": false
+    },
+    {
+      "ingredient": "Chicken Breasts",
+      "quantity": 4,
+      "unit": "NA",
+      "type": "Meat",
+      "checked": false
+    },
+    {
+      "ingredient": "Eggs",
+      "quantity": 1,
+      "unit": "Carton",
+      "type": "Dairy",
+      "checked": false
+    },
+    {
+      "ingredient": "Greek yogurt",
+      "quantity": 1,
+      "unit": "Qt",
+      "type": "Dairy",
+      "checked": false
+    },
+    {
+      "ingredient": "Salt",
+      "quantity": 1,
+      "unit": "NA",
+      "type": "Pantry",
+      "checked": false
+    },
+    {
+      "ingredient": "Sourdough",
+      "quantity": 1,
+      "unit": "Bag",
+      "type": "Bakery",
+      "checked": false
+    }
+  ],
+  "currentView": "grocery",
+  "lastModified": "2025-08-11T00:02:27.290Z"
 }
