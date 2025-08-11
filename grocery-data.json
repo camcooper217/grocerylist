@@ -141,7 +141,7 @@
       "quantity": 1,
       "unit": "Bag",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Limes",
@@ -194,5 +194,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-08-11T00:02:27.290Z"
+  "lastModified": "2025-08-11T00:02:29.897Z"
 }
