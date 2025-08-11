@@ -162,7 +162,7 @@
       "quantity": 4,
       "unit": "NA",
       "type": "Meat",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Eggs",
@@ -194,5 +194,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-08-11T00:09:15.296Z"
+  "lastModified": "2025-08-11T00:11:02.982Z"
 }
