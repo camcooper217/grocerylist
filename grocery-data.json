@@ -155,7 +155,7 @@
       "quantity": 2,
       "unit": "Bag",
       "type": "Produce",
-      "checked": false
+      "checked": true
     },
     {
       "ingredient": "Chicken Breasts",
@@ -194,5 +194,5 @@
     }
   ],
   "currentView": "grocery",
-  "lastModified": "2025-08-11T00:02:39.837Z"
+  "lastModified": "2025-08-11T00:06:55.123Z"
 }
